@@ -14,13 +14,21 @@
 
 ## Contents
 
-1. [2026-10-10 – Work session](#2026-10-10-work-session)
+1. [2026-10-10 – The stuff i worked on:](#2026-10-10-the-stuff-i-worked-on)
 
 ## Design
 
-### 2026-10-10 – Work session
+### 2026-10-10 – The stuff i worked on:
 
 **2.5h**
+
+The stuff i worked on:
+-the schematic
+-the placement on pcb
+-the 3d models for the keys
+The problems i faced:
+-I was trying to automatically arrange the keys but it kept getting messed up and it turned out that i had some settings wrong and that 2 of the buttons where upside down for some reason and that caused them to be out of place.
+-The keys didnt have any 3d model so it took me a while to find a 3d model of a 3 pin keyboard switch and then it also turned out that i needed to manually assign and arrange the 3d models on each key and that was annoying.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4153135b-16bf-4cbc-a138-a69f53f0ed32/video.mp4)
 
