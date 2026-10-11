@@ -16,7 +16,7 @@
 | [Raspberry Pi Pico](https://www.kiwi-electronics.com/nl/raspberry-pi-pico-10494) | the code and converting it to keyboard output | 1 | $4.73 | $4.73 | [Kiwi Electronics](https://www.kiwi-electronics.com/nl/raspberry-pi-pico-10494) |
 | [I2C 0.91" OLED Display Module](https://www.amazon.com.be/-/en/gp/product/B0H38Y8TR8/ref=ox_sc_act_title_1?smid=A2AENSE274CIM5&psc=1) | Its the screen to display like what time it is and some other info | 1 | $8.94 | $8.94 | [Fasizi](https://www.amazon.com.be/-/en/gp/product/B0H38Y8TR8/ref=ox_sc_act_title_1?smid=A2AENSE274CIM5&psc=1) |
 | **Parts subtotal** | — | — | — | **$18.92** | — |
-| **Tax & shipping** | — | — | — | **$11.61** | — |
-| **Total** | — | — | — | **$30.53** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$18.92** | — |
 
-**$0.53 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$11.08 left of the tier's funding.
